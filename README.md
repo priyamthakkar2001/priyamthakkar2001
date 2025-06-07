@@ -145,17 +145,23 @@ print(f"Status: {achievement_matrix['engineering']['operational_efficiency']} ef
 </tr>
 </table>
 
-<!-- Dynamic Performance Dashboard -->
+<!-- Compact Analytics -->
 <div align="center">
 
-## 📈 **PERFORMANCE ANALYTICS DASHBOARD**
+## 📊 **GITHUB ANALYTICS**
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=priyamthakkar2001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&count_private=true&include_all_commits=true&custom_title=System%20Performance%20Metrics" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamthakkar2001&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&custom_title=Technology%20Distribution" />
+<table align="center">
+<tr>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyamthakkar2001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&count_private=true&include_all_commits=true" />
+</td>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamthakkar2001&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
+</td>
+</tr>
+</table>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyamthakkar2001&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA116&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyamthakkar2001&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=priyamthakkar2001&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 
 </div>
 
