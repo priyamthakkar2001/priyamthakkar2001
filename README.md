@@ -145,23 +145,48 @@ print(f"Status: {achievement_matrix['engineering']['operational_efficiency']} ef
 </tr>
 </table>
 
-<!-- Compact Analytics -->
+<!-- Elite Custom Analytics -->
 <div align="center">
 
-## 📊 **GITHUB ANALYTICS**
+## 📊 **DEVELOPMENT IMPACT METRICS**
 
-<table align="center">
+<table align="center" style="border: none;">
 <tr>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyamthakkar2001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&ring_color=58A6FF&count_private=true&include_all_commits=true" />
+<td align="center" style="border: none;">
+
+### 💻 **CODE CONTRIBUTIONS**
+
+<table>
+<tr><td>🚀</td><td><b>Total Commits</b></td><td><img src="https://img.shields.io/badge/738+-00D4AA?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>⭐</td><td><b>Stars Earned</b></td><td><img src="https://img.shields.io/badge/150+-FFD700?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🔄</td><td><b>Pull Requests</b></td><td><img src="https://img.shields.io/badge/85+-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🐛</td><td><b>Issues Resolved</b></td><td><img src="https://img.shields.io/badge/60+-4ECDC4?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📈</td><td><b>Repositories</b></td><td><img src="https://img.shields.io/badge/25+-A8E6CF?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
+
 </td>
-<td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyamthakkar2001&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
+<td align="center" style="border: none;">
+
+### 🛠️ **TECHNOLOGY MASTERY**
+
+<table>
+<tr><td>🐍</td><td><b>Python</b></td><td><img src="https://img.shields.io/badge/Expert-3776AB?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>⚛️</td><td><b>React/JS</b></td><td><img src="https://img.shields.io/badge/Advanced-61DAFB?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>🤖</td><td><b>AI/ML</b></td><td><img src="https://img.shields.io/badge/Expert-FF6B6B?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>☁️</td><td><b>Cloud</b></td><td><img src="https://img.shields.io/badge/AWS/Azure-FF9500?style=for-the-badge&labelColor=0D1117"/></td></tr>
+<tr><td>📊</td><td><b>Data Eng</b></td><td><img src="https://img.shields.io/badge/Advanced-9B59B6?style=for-the-badge&labelColor=0D1117"/></td></tr>
+</table>
+
 </td>
 </tr>
 </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyamthakkar2001&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+<br/>
+
+**🏆 ACHIEVEMENTS:**
+<img src="https://img.shields.io/badge/📚_2_Research_Papers-success?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/🎓_Rice_University_TA-blue?style=for-the-badge&labelColor=2C3E50"/>
+<img src="https://img.shields.io/badge/🚀_4+_Years_Experience-purple?style=for-the-badge&labelColor=2C3E50"/>
 
 </div>
 
