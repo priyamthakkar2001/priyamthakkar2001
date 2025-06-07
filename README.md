@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=300&section=header&text=PRIYAM%20THAKKAR&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20AI%20ARCHITECT%20◉%20ML%20RESEARCHER%20◉%20SYSTEMS%20ENGINEER%20◉&descSize=18&descAlign=50&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,100:764ba2&height=300&section=header&text=PRIYAM%20THAKKAR&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20SOFTWARE%20ENGINEER%20◉%20DATA%20ENGINEER%20◉%20AI/ML%20ENGINEER%20◉&descSize=18&descAlign=50&descAlignY=75" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 ```bash
 ┌─[priyam@research-lab]─[~/projects/ai-systems]
 └──╼ $ whoami
-AI/ML Software Engineer | Rice University MCS | Published Researcher
+Software Engineer • Data Engineer • AI/ML Engineer | Rice University MCS
 
 ┌─[priyam@research-lab]─[~/achievements]
 └──╼ $ ls -la
@@ -77,7 +77,7 @@ Building AI systems that transform ideas into intelligent solutions 🚀
 <!-- Elite About Section -->
 <div align="center">
 
-## 🎯 **THE ARCHITECT BEHIND THE ALGORITHM**
+## 🎯 **TRIPLE ENGINEERING EXPERTISE**
 
 </div>
 
@@ -85,14 +85,14 @@ Building AI systems that transform ideas into intelligent solutions 🚀
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 **COGNITIVE COMPUTING**
+### 🧠 **ENGINEERING MASTERY**
 
 ```typescript
-class AIArchitect implements Innovator {
+class TripleEngineer implements Innovator {
   private expertise: TechStack = {
-    intelligence: ["RAG Systems", "LLMs", "Computer Vision"],
-    engineering: ["Distributed Systems", "Cloud Architecture"],
-    research: ["Edge Computing", "Medical AI", "IoT"],
+    software: ["Full-Stack Development", "API Design", "System Architecture"],
+    data: ["ETL Pipelines", "Data Warehousing", "Big Data Analytics"],
+    aiml: ["RAG Systems", "LLMs", "Computer Vision", "Deep Learning"],
     leadership: ["Cross-functional Teams", "Technical Strategy"],
   };
 
@@ -105,7 +105,7 @@ class AIArchitect implements Innovator {
   }
 
   get currentMission(): string {
-    return "Democratizing AI through scalable, intelligent systems";
+    return "Building scalable software, intelligent data systems, and cutting-edge AI/ML solutions";
   }
 }
 ```
@@ -475,7 +475,7 @@ _Jaipur, India • Jul 2019 – May 2023_
 
 ## 📈 **DEVELOPMENT ACTIVITY MATRIX**
 
-[![Priyam's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyamthakkar2001&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116&area=true&hide_border=true&theme=react)](https://github.com/priyamthakkar2001)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyamthakkar2001&custom_title=Annual%20Development%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
 
 </div>
 
@@ -503,7 +503,7 @@ _Jaipur, India • Jul 2019 – May 2023_
 <br/>
 
 > **"The future belongs to those who believe in the beauty of their code."**  
-> _— Building intelligent systems that transform human potential —_
+> _— Software Engineer • Data Engineer • AI/ML Engineer —_
 
 <br/>
 
