@@ -71,8 +71,6 @@ Building AI systems that transform ideas into intelligent solutions 🚀
 
 </div>
 
-<!-- Elegant Divider -->
-<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/gradient.png?raw=true" />
 
 <!-- Elite About Section -->
 <div align="center">
